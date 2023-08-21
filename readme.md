@@ -1,6 +1,6 @@
 # Documentation
 
-## Tutorial Content Overview
+## Content Overview
 
 ---
 
@@ -38,7 +38,7 @@ Promotion App Scope:
 
 API:
 
-    - [ ] API endpoint refactor to include promotion price
+    - [x] API endpoint refactor to include promotion price
 
 
     
